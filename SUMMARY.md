@@ -15,6 +15,7 @@
     * [对关键资源的加锁]
     * [任务参数化]
 * [windows 项目持续集成]
+  * [windows 批处理命令](windows_batch.md)
 
 * [android 项目持续集成]
 * [docker  项目持续集成]
